@@ -74,4 +74,4 @@ streamlit run app.py
 * Response: The AI generates a factual answer based only on the provided context.
 
 ## 📝 License
-This project is for educational purposes as part of the BS Computer Science undergraduate thesis.
+This project is for educational purposes as part of the BS Computer Science undergraduate project.
