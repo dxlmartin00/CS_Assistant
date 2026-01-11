@@ -1,0 +1,76 @@
+The following is the Bachelor of Science in Computer Science curriculum.
+
+--- 1ST YEAR, 1ST SEMESTER ---
+Subject Code CS 111 is the course titled Introduction to Computing. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code CS 112 is the course titled Fundamentals of Programming. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code GE-MMW is the course titled Mathematics in the Modern World. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code GE-PC is the course titled Purposive Communication. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code GE-US is the course titled Understanding the Self. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code IT 1 is the course titled Living in the IT Era. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code Math 1 is the course titled Advance College Algebra. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code NSTP 1 is the course titled CWTS / ROTC 1. It is a 3.00 unit course taken in the 1st year, 1st semester.
+Subject Code PATH-Fit 1 is the course titled Movement Competency Training. It is a 2.00 unit course taken in the 1st year, 1st semester.
+
+--- 1ST YEAR, 2ND SEMESTER ---
+Subject Code CS 121 is the course titled Discrete Structures 1. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code CS 122 is the course titled Intermediate Programming. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code CS 123 is the course titled Multimedia Systems and Technology. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code GE-BC is the course titled Business Correspondence. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code GE-CW is the course titled The Contemporary World. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code GE-E is the course titled Ethics. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code GE-STS is the course titled Science, Technology and Society. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code NSTP 2 is the course titled CWTS / ROTC 2. It is a 3.00 unit course taken in the 1st year, 2nd semester.
+Subject Code PATH-Fit 2 is the course titled Exercise-based Fitness Activities. It is a 2.00 unit course taken in the 1st year, 2nd semester.
+
+--- 2ND YEAR, 1ST SEMESTER ---
+Subject Code CS 211 is the course titled Discrete Structures 2. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code CS 212 is the course titled Object-Oriented Programming. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code CS 213 is the course titled Data Structures and Algorithms. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code CS 214 is the course titled Embedded Systems. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code Entrep 1 is the course titled The Entrepreneurial Mind. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code GE-AA is the course titled Art Appreciation. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code GE-Stat is the course titled Descriptive and Inferential Statistics. It is a 3.00 unit course taken in the 2nd year, 1st semester.
+Subject Code PATH-Fit 3 is the course titled Menu of Dance, Sports, Martial Arts, Group Exercise, Outdoor and Adventure Activities. It is a 2.00 unit course taken in the 2nd year, 1st semester.
+
+--- 2ND YEAR, 2ND SEMESTER ---
+Subject Code CS 221 is the course titled Algorithms and Complexity. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code CS 222 is the course titled Information Management. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code CS 223 is the course titled Web Systems and Technologies 1. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code CS 224 is the course titled Computational Science. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code Ecos 1 is the course titled People and the Earth's Ecosystem. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code GE-RPH is the course titled Readings in Philippine History. It is a 3.00 unit course taken in the 2nd year, 2nd semester.
+Subject Code PATH-Fit 4 is the course titled Menu of Dance, Sports, Group Exercise, Outdoor and Adventure Activities. It is a 2.00 unit course taken in the 2nd year, 2nd semester.
+
+--- 3RD YEAR, 1ST SEMESTER ---
+Subject Code CS 311 is the course titled Automata Theory and Formal Languages. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code CS 312 is the course titled Architecture and Organization. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code CS 313 is the course titled Information Assurance and Security. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code CS 314 is the course titled CS Elective 1. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code CS 315 is the course titled Application Development & Emerging Technologies. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code CS 316 is the course titled Web Systems and Technologies 2. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+Subject Code Rizal is the course titled Life and Works of Rizal. It is a 3.00 unit course taken in the 3rd year, 1st semester.
+
+--- 3RD YEAR, 2ND SEMESTER ---
+Subject Code CS 321 is the course titled Programming Languages. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 322 is the course titled Software Engineering 1. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 323 is the course titled Social Issues and Professional Practice. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 324 is the course titled CS Elective 2. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 325 is the course titled Mobile Computing 1. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 326 is the course titled Modeling and Simulation. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 327 is the course titled Data Mining Concepts and Techniques. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+Subject Code CS 328 is the course titled Machine Learning. It is a 3.00 unit course taken in the 3rd year, 2nd semester.
+
+--- 3RD YEAR, SUMMER ---
+Subject Code CS 331 is the course titled Practicum (324 hours). It is a 6.00 unit course taken in the 3rd year, Summer term.
+
+--- 4TH YEAR, 1ST SEMESTER ---
+Subject Code CS 411 is the course titled Human Computer Interaction. It is a 3.00 unit course taken in the 4th year, 1st semester.
+Subject Code CS 412 is the course titled Operating Systems. It is a 3.00 unit course taken in the 4th year, 1st semester.
+Subject Code CS 413 is the course titled Software Engineering 2. It is a 3.00 unit course taken in the 4th year, 1st semester.
+Subject Code CS 414 is the course titled CS Thesis Writing 1. It is a 3.00 unit course taken in the 4th year, 1st semester.
+Subject Code CS 415 is the course titled CS Elective 3. It is a 3.00 unit course taken in the 4th year, 1st semester.
+Subject Code CS 416 is the course titled Mobile Computing 2. It is a 3.00 unit course taken in the 4th year, 1st semester.
+
+--- 4TH YEAR, 2ND SEMESTER ---
+Subject Code CS 421 is the course titled Networks and Communications. It is a 3.00 unit course taken in the 4th year, 2nd semester.
+Subject Code CS 422 is the course titled CS Thesis Writing 2. It is a 3.00 unit course taken in the 4th year, 2nd semester.

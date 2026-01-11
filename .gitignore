@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables (Keep your keys secret!)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Mac OS junk
+.DS_Store

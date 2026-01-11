@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+huggingface_hub
+faiss-cpu
+python-dotenv
+sentence-transformers
+numpy
+langchain-google-genai
+google-generativeai
